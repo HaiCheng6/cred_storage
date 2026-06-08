@@ -1,0 +1,4 @@
+测试凭据
+账号：admin
+密码：password
+会话Cookie：security=low; PHPSESSID=xxxxxxx
