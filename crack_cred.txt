@@ -1,4 +1,4 @@
 测试凭据
 账号：admin
 密码：password
-会话Cookie：security=low; PHPSESSID=xxxxxxx
+会话Cookie：security=low; PHPSESSID=fvan4cmqsvt9527jqeq7hmu1dt
